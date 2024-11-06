@@ -8,6 +8,7 @@ public class FormApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FormApplication.class, args);
+		System.out.println("Démarrage de l'application FormApplication");
 	}
 
 }
